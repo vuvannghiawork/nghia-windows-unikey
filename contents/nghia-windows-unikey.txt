@@ -6,7 +6,7 @@ dbpg:postgres
 dcy:docker-compose.yml
 dcyb: docker compose -f docker-compose.yml build
 dcyd: docker compose -f docker-compose.yml down -v
-dcyr: docker compose -f docker-compose.yml up -d
+dcyu: docker compose -f docker-compose.yml up -d
 fpp:FastAPI
 gg:google
 ggg: git add . && git commit -m "Auto commit" && ls && exit 0 #### Chức năng: Auto commit
