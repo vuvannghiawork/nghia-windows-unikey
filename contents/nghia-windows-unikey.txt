@@ -9,6 +9,7 @@ dcyu: docker compose -f docker-compose.yml up -d
 fpp:FastAPI
 gg:google
 hd:Hướng dẫn
+lll: private static final Logger log = LoggerFactory.getLogger(SubscriberImpl.class);
 msa:microservices
 pp:python
 rrr:request response result
