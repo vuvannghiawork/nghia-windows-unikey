@@ -6,10 +6,9 @@ dcy:docker-compose.yml
 dcyb: docker compose -f docker-compose.yml build
 dcyd: docker compose -f docker-compose.yml down -v
 dcyu: docker compose -f docker-compose.yml up -d
-fpp:FastAPI
 gg:google
 hd:Hướng dẫn
-lll: private static final Logger log = LoggerFactory.getLogger(SubscriberImpl.class);
+lll: private static final Logger log = LoggerFactory.getLogger(Nghia.class);
 msa:microservices
 pp:python
 rrr:request response result
