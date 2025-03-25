@@ -2,7 +2,7 @@
 111:    git reset --soft HEAD~ 
 bbb: git reset --soft $(git rev-list --max-parents=0 HEAD) && git commit -m "Coding" && git push origin --force && exit 0 #### Chức năng: Xóa GIT
 ccc: git commit --amend --no-edit && git push --force && exit 0 #### Chức năng: Dùng 1 commit
-dbpg:postgres
+dbpg:database postgres
 dcy:docker-compose.yml
 dcyb: docker compose -f docker-compose.yml build
 dcyd: docker compose -f docker-compose.yml down -v
