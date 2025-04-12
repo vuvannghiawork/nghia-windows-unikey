@@ -13,5 +13,6 @@ hd:Hướng dẫn
 lll: private static final Logger log = LoggerFactory.getLogger(Nghia.class);
 msa:microservices
 pp:python
+ppp:12345678
 rrr:request response result
 vvv:source venv/Scripts/activate
