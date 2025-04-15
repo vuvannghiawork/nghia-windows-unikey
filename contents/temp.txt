@@ -1,1 +1,6 @@
 ﻿ttt:   cd /temp && ls
+bbb: git reset --soft $(git rev-list --max-parents=0 HEAD) && git commit -m "Coding" && git push origin --force && exit 0 #### Chức năng: Xóa GIT
+fpp:FastAPI
+gg:google
+lll: private static final Logger log = LoggerFactory.getLogger(Nghia.class);
+vvv:source venv/Scripts/activate
