@@ -12,3 +12,4 @@ msa:microservices
 pp:python
 ppp:12345678
 rrr:request response result
+vvv:Hãy trả lời bằng tiếng Việt
